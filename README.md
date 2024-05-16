@@ -3,7 +3,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=F710B1&center=true&width=910&height=100&lines=I'M+Phoenix-MD;Multi+Divice+Whatsapp+Bot;Coded+By+Abhishek Suresh" alt="Typing SVG" /></a>
   
 <p align="center">  
-  <a href="https://youtube.com/channel/UCLUS9v7q4JagAqIJ3eeMM8w">
+  <a href="">
     <img alt=rush10-MD height="300" src="https://telegra.ph/file/0cfd55937acc8e0a8a4b3.jpg">
    
 </a> 
